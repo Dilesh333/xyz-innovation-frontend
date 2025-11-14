@@ -1,5 +1,8 @@
 # XYZ Innovations - Landing Page & Admin Dashboard
 
+🌐 Live Links
+Frontend: https://xyz-innovation-frontend.vercel.app/
+
 A modern, animation-rich landing page and admin dashboard built with React, Vite, and Framer Motion.
 
 ## Features
@@ -108,25 +111,6 @@ src/
 
 - **Email**: admin@xyz.com
 - **Password**: admin123
-
-## Customization
-
-### Add More Testimonials
-Edit `src/context/DataContext.jsx` and add to `defaultTestimonials`
-
-### Change Color Scheme
-Update CSS variables in `src/index.css`:
-\`\`\`css
-:root {
-  --primary: #0f172a;
-  --secondary: #7c3aed;
-  --accent: #ec4899;
-  /* ... */
-}
-\`\`\`
-
-### Modify Services
-Add/edit/delete services through the admin dashboard
 
 ## Performance Features
 
